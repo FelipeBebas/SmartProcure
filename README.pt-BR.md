@@ -27,41 +27,31 @@ No varejo e atacado, a margem de lucro depende diretamente de **comprar barato p
 
 O SmartProcure opera como um ecossistema cooperativo de **dois agentes** orquestrados com **LangGraph**:
 
-```
-+-----------------------------------------------------------------------------------+
-|                              1. AGENTE DE ONBOARDING                              |
-|                       (Loop Evaluator-Optimizer - Página 5)                       |
-|                                                                                   |
-|  [perceive] ---> [bootstrap] ---> [propose] ---> [run] ---> [evaluate] ---> GATE  |
-|                                      ^                             |              |
-|                                      |       Qualidade < 90%       |              |
-|                                      +-----------------------------+              |
-|                                                                    | >= 90%       |
-|                                                                    v              |
-|                                                               [register]          |
-|                                                                    |              |
-+--------------------------------------------------------------------+--------------+
-                                                                     | ExtractionConfig
-                                                                     v
-+-----------------------------------------------------------------------------------+
-|                        2. MOTOR DE EXTRAÇÃO DETERMINÍSTICA                        |
-|                  (Execução local via pdfplumber - 29 páginas em 2.6s)             |
-|                                                                                   |
-|                   LEHMOX 2026.04.pdf  ====>  dados_norm.json                      |
-|                                      (394 linhas, US$ 0 em tokens)                |
-+--------------------------------------------------------------------+--------------+
-                                                                     | Dados Estruturados
-                                                                     v
-+-----------------------------------------------------------------------------------+
-|                           3. AGENTE ANALISTA DE COMPRAS                           |
-|                       (ReAct + 6 Guardrails Determinísticos)                      |
-|                                                                                   |
-|   Prompt do Comprador ("Orçamento de R$5.000, maximizar lucro")                   |
-|         │                                                                         |
-|         ▼                                                                         |
-|   [input_guard] ──► [plan] ──► [execute] ──► [ground] ──► [narrate]              |
-|                                (Cálculo Pandas) (Guardrails)                      |
-+--------------------------------------------------------------------+--------------+
+```mermaid
+flowchart TD
+    subgraph Agent1["1. AGENTE DE ONBOARDING (Loop Evaluator-Optimizer)"]
+        direction TB
+        A["perceive<br/><i>(Metadados Visuais / Fast Path)</i>"] --> B["bootstrap<br/><i>(Grade e Caixas Delimitadoras)</i>"]
+        B --> C["propose<br/><i>(Gerador de ExtractionConfig)</i>"]
+        C --> D["run<br/><i>(Extração Determinística da Pág 5)</i>"]
+        D --> E{"evaluate<br/><i>(Quality Gate)</i>"}
+        E -- "Nota < 90%" --> C
+        E -- "Tentativas esgotadas" --> HITL["hitl<br/><i>(Human-in-the-Loop)</i>"]
+        HITL --> REG["register<br/><i>(Homologar Config)</i>"]
+        E -- "Nota >= 90%" --> REG
+    end
+
+    REG ==>|ExtractionConfig| Engine["2. MOTOR DETERMINÍSTICO (pdfplumber + Pandas)<br/><b>29 páginas extraídas em 2.6s com US$ 0 de tokens</b>"]
+    Engine ==>|dados_norm.json / 394 produtos| Agent2
+
+    subgraph Agent2["3. AGENTE ANALISTA DE COMPRAS (ReAct + 6 Guardrails)"]
+        direction TB
+        Prompt["Prompt do Comprador<br/><i>('Orçamento R$5.000, maximizar lucro')</i>"] --> IG["input_guard<br/><i>(Validação de Escopo e Intenção)</i>"]
+        IG --> Plan["plan<br/><i>(Tradução de Intenção)</i>"]
+        Plan --> Exec["execute<br/><i>(Execução Matemática em Pandas)</i>"]
+        Exec --> Ground["ground<br/><i>(Verificação dos 6 Guardrails)</i>"]
+        Ground --> Narrate["narrate<br/><i>(Saída com ROI e Margem)</i>"]
+    end
 ```
 
 ---

@@ -27,41 +27,31 @@ In retail and wholesale, profit margins depend directly on **buying low and sell
 
 SmartProcure operates as a **two-agent cooperative ecosystem** orchestrated with **LangGraph**:
 
-```
-+-----------------------------------------------------------------------------------+
-|                               1. ONBOARDING AGENT                                 |
-|                       (Evaluator-Optimizer Loop - Page 5)                         |
-|                                                                                   |
-|  [perceive] ---> [bootstrap] ---> [propose] ---> [run] ---> [evaluate] ---> GATE  |
-|                                      ^                             |              |
-|                                      |       Quality < 90%         |              |
-|                                      +-----------------------------+              |
-|                                                                    | >= 90%       |
-|                                                                    v              |
-|                                                               [register]          |
-|                                                                    |              |
-+--------------------------------------------------------------------+--------------+
-                                                                     | ExtractionConfig
-                                                                     v
-+-----------------------------------------------------------------------------------+
-|                        2. DETERMINISTIC EXTRACTION ENGINE                         |
-|                 (Runs locally via pdfplumber - 29 pages in 2.6s)                  |
-|                                                                                   |
-|                   LEHMOX 2026.04.pdf  ====>  dados_norm.json                      |
-|                                      (394 rows, $0 token cost)                    |
-+--------------------------------------------------------------------+--------------+
-                                                                     | Structured Data
-                                                                     v
-+-----------------------------------------------------------------------------------+
-|                            3. PURCHASING ANALYST AGENT                            |
-|                       (ReAct + 6 Deterministic Guardrails)                        |
-|                                                                                   |
-|   Buyer Prompt ("$5,000 budget, maximize profit")                                 |
-|         │                                                                         |
-|         ▼                                                                         |
-|   [input_guard] ──► [plan] ──► [execute] ──► [ground] ──► [narrate]              |
-|                                (Pandas Math)  (Guardrails)                        |
-+-----------------------------------------------------------------------------------+
+```mermaid
+flowchart TD
+    subgraph Agent1["1. ONBOARDING AGENT (Evaluator-Optimizer Loop)"]
+        direction TB
+        A["perceive<br/><i>(Visual Metadata / Fast Path)</i>"] --> B["bootstrap<br/><i>(Grid & Bounding Boxes)</i>"]
+        B --> C["propose<br/><i>(ExtractionConfig Generator)</i>"]
+        C --> D["run<br/><i>(Deterministic Sample Page Parse)</i>"]
+        D --> E{"evaluate<br/><i>(Quality Gate)</i>"}
+        E -- "Score < 90%" --> C
+        E -- "Max attempts reached" --> HITL["hitl<br/><i>(Human-in-the-Loop)</i>"]
+        HITL --> REG["register<br/><i>(Persist Config)</i>"]
+        E -- "Score >= 90%" --> REG
+    end
+
+    REG ==>|ExtractionConfig| Engine["2. DETERMINISTIC ENGINE (pdfplumber + Pandas)<br/><b>29 pages extracted in 2.6s at $0.00 token cost</b>"]
+    Engine ==>|dados_norm.json / 394 products| Agent2
+
+    subgraph Agent2["3. PURCHASING ANALYST AGENT (ReAct + 6 Guardrails)"]
+        direction TB
+        Prompt["Buyer Prompt<br/><i>('$5,000 budget, maximize profit')</i>"] --> IG["input_guard<br/><i>(Intent & Scope Validation)</i>"]
+        IG --> Plan["plan<br/><i>(Intent Translation)</i>"]
+        Plan --> Exec["execute<br/><i>(Pandas Math Execution)</i>"]
+        Exec --> Ground["ground<br/><i>(6 Guardrails Verification)</i>"]
+        Ground --> Narrate["narrate<br/><i>(ROI & Margin Output)</i>"]
+    end
 ```
 
 ---
