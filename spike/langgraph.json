@@ -1,0 +1,13 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "onboarding": "./studio_graph.py:graph",
+    "onboarding_hitl": "./studio_graph.py:graph_hitl",
+    "onboarding_real": "./studio_graph.py:graph_onboarding_real",
+    "onboarding_real_english": "./studio_graph.py:graph_onboarding_real_en",
+    "analista_v2": "./studio_graph.py:graph_analista_v2",
+    "analista_v3": "./studio_graph.py:graph_analista_v3",
+    "analista_v3_english": "./studio_graph.py:graph_analista_v3_en"
+  },
+  "env": ".env"
+}

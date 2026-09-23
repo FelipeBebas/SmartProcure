@@ -1,0 +1,18 @@
+[project]
+name = "leitorcatalogos-spike"
+version = "0.1.0"
+description = "Spike de extração de catálogos — de-risco de acurácia e custo"
+requires-python = ">=3.10"
+dependencies = [
+    "pdfplumber>=0.11",
+    "PyMuPDF>=1.24",
+    "Pillow>=10.0",
+    "openai>=1.40",
+    "pydantic>=2.7",
+    "python-dotenv>=1.0",
+    "langsmith>=0.1",
+    "langgraph>=1.2.11",
+    "langgraph-cli[inmem]>=0.4.31",
+    "colorama>=0.4.6",
+    "pandas>=2.3.3",
+]

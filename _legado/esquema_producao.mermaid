@@ -1,0 +1,46 @@
+flowchart TD
+    subgraph PRE[Pré-condição · Onboarding já executado]
+        R[(regras_compra)]
+        C[(catalogo_interno)]
+    end
+
+    IN[/PDF + tenant_id + fornecedor/] --> LOTE[registrar lote + hash_pdf<br/>idempotência]
+    LOTE --> TRI{triagem_paginas<br/>tem texto extraível?}
+
+    TRI -->|sim| CT[caminho_texto<br/>heurística · fatia · geometria preço riscado<br/>+ LLM online estrutura]
+    TRI -->|não| CI[caminho_imagem<br/>rasteriza PyMuPDF · visão online · normaliza]
+
+    CT --> BATCH[extrator_batch<br/>paralelo + semáforo · Send API]
+    CI --> BATCH
+
+    BATCH --> VAL{validador_contrato<br/>Pydantic}
+    VAL -->|ok| RES[resolucao_entidades<br/>EAN → trigrama → embedding]
+    VAL -->|falha| RETRY[correção cirúrgica]
+    RETRY -->|"ciclo: < max_retries"| VAL
+    RETRY -->|"esgotou retentativas"| DL[[dead-letter]]
+
+    R -.-> RES
+    C -.-> RES
+
+    RES --> FIN[motor_regras_financeiras<br/>Decimal · variação de custo · markup · cobertura]
+    R -.-> FIN
+
+    FIN --> ROT{roteador_incerteza}
+    ROT -->|"custo favorável + estoque baixo"| APR[aprovar_compra]
+    ROT -->|"esgotado / markup abaixo do piso"| DESC[descartar]
+    ROT -->|"produto novo / dado suspeito / confiança baixa"| HITL[[pausa_hitl · interrupt]]
+
+    DL --> HITL
+    HITL -->|"ciclo: resume via thread_id"| APR
+
+    APR --> PERS[(persistir_auditoria<br/>historico_ofertas)]
+    DESC --> PERS
+    PERS --> FIM[relatório consolidado]
+
+    CKPT[(PostgresSaver · checkpointer)] -.snapshots por thread_id.-> VAL
+    LS[[LangSmith · tracing + custo por run]] -.observa.-> BATCH
+
+    classDef dag fill:#e6f0ff,stroke:#3b6fb0,color:#0b2545;
+    classDef cycle fill:#fff0e6,stroke:#c9772e,color:#5a2c06;
+    class IN,LOTE,TRI,CT,CI,BATCH,VAL,RES,FIN,ROT,APR,DESC,PERS,FIM dag;
+    class RETRY,DL,HITL cycle;

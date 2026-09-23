@@ -1,0 +1,38 @@
+{
+  "_comment": "Gabarito rascunhado por Claude lendo as IMAGENS das páginas 5 (FONES) e 15 (TECLADO MOUSE) do LEHMOX completo.pdf. Preços em reais; preco_oferta = preço promocional em vermelho (null se não houver). esgotado=true quando há tarja Esgotado. in_scope_informatica documenta a categoria por item (achado: a página 15 mistura itens fora do domínio). CONFERIR antes de usar como régua.",
+  "itens": [
+    {"pagina": 5, "modelo_codigo": "LEF-1078", "descricao": "FONE COM FIO", "quantidade_caixa": 100, "preco_regular": 15.00, "preco_oferta": 13.99, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEF-1079", "descricao": "FONE COM MICROFONE", "quantidade_caixa": 80, "preco_regular": 18.00, "preco_oferta": 15.99, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEF-1051", "descricao": "FONE DE GAMER", "quantidade_caixa": 80, "preco_regular": 22.00, "preco_oferta": 18.99, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEY-35", "descricao": "FONE PS4/XBOX", "quantidade_caixa": 80, "preco_regular": 22.00, "preco_oferta": 18.99, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEF-1040", "descricao": "FONE GAME 7.1USB", "quantidade_caixa": 80, "preco_regular": 32.00, "preco_oferta": null, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEF-1209", "descricao": "FONE GAME 7.1USB", "quantidade_caixa": 60, "preco_regular": 55.00, "preco_oferta": 34.99, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEF-1210", "descricao": "FONE GAME 7.1USB", "quantidade_caixa": 60, "preco_regular": 55.00, "preco_oferta": 34.99, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEF-1211", "descricao": "FONE GAMER + ADAPTADOR", "quantidade_caixa": 60, "preco_regular": null, "preco_oferta": null, "esgotado": true, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEF-1212", "descricao": "FONE GAMER + ADAPTADOR", "quantidade_caixa": 60, "preco_regular": 38.00, "preco_oferta": 29.99, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEF-1213", "descricao": "FONE GAMER + ADAPTADOR", "quantidade_caixa": 60, "preco_regular": 38.00, "preco_oferta": 29.99, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEY-2248", "descricao": "FONE GAMER + ADAPTADOR", "quantidade_caixa": 20, "preco_regular": 55.00, "preco_oferta": 38.00, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEY-2247", "descricao": "FONE GAME 7.1USB RBG", "quantidade_caixa": 20, "preco_regular": 68.00, "preco_oferta": 57.00, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEY-2249", "descricao": "FONE GAME 7.1USB RBG", "quantidade_caixa": 20, "preco_regular": 78.00, "preco_oferta": 57.00, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEY-2250", "descricao": "FONE GAME 7.1USB RBG", "quantidade_caixa": 20, "preco_regular": 85.00, "preco_oferta": 69.99, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEF-1031A", "descricao": "FONE GAME SEM FIO", "quantidade_caixa": 60, "preco_regular": 70.00, "preco_oferta": 45.99, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 5, "modelo_codigo": "LEF-1032A", "descricao": "FONE GAME SEM FIO", "quantidade_caixa": 60, "preco_regular": 70.00, "preco_oferta": 45.99, "esgotado": false, "in_scope_informatica": true},
+
+    {"pagina": 15, "modelo_codigo": "LEY-2074", "descricao": "KIT TECLADO MOUSE RGB", "quantidade_caixa": 30, "preco_regular": 37.00, "preco_oferta": null, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 15, "modelo_codigo": "LEY-2273", "descricao": "KIT TECLADO MOUSE RGB", "quantidade_caixa": 20, "preco_regular": 45.99, "preco_oferta": null, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 15, "modelo_codigo": "LEY-2077", "descricao": "KIT TECLADO MOUSE RGB", "quantidade_caixa": 20, "preco_regular": 38.00, "preco_oferta": 36.00, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 15, "modelo_codigo": "LEY-2078", "descricao": "KIT TECLADO MOUSE RGB", "quantidade_caixa": 20, "preco_regular": 38.00, "preco_oferta": 37.00, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 15, "modelo_codigo": "LEY-2092", "descricao": "TECLADO MECANICO RGB", "quantidade_caixa": 20, "preco_regular": 80.00, "preco_oferta": 69.00, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 15, "modelo_codigo": "LEY-2079", "descricao": "TECLADO MECANICO RGB", "quantidade_caixa": 20, "preco_regular": 65.00, "preco_oferta": null, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 15, "modelo_codigo": "LEY-2080", "descricao": "TECLADO MECANICO RGB", "quantidade_caixa": 20, "preco_regular": 75.00, "preco_oferta": null, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 15, "modelo_codigo": "LEY-1939", "descricao": "MINI PROCESSADOR (de alimentos)", "quantidade_caixa": 60, "preco_regular": 13.00, "preco_oferta": null, "esgotado": false, "in_scope_informatica": false},
+    {"pagina": 15, "modelo_codigo": "LEY-16", "descricao": "CABO P2 FEMEA P2 1.5M", "quantidade_caixa": 1000, "preco_regular": 1.20, "preco_oferta": null, "esgotado": false, "in_scope_informatica": false},
+    {"pagina": 15, "modelo_codigo": "LEY-14", "descricao": "CABO P2 3RCA", "quantidade_caixa": 750, "preco_regular": 1.60, "preco_oferta": null, "esgotado": false, "in_scope_informatica": false},
+    {"pagina": 15, "modelo_codigo": "LEY-15", "descricao": "CABO P2 2RCA 1.5M", "quantidade_caixa": 1000, "preco_regular": 1.50, "preco_oferta": null, "esgotado": false, "in_scope_informatica": false},
+    {"pagina": 15, "modelo_codigo": "LEY-215", "descricao": "CABO VGA VGA", "quantidade_caixa": 300, "preco_regular": 3.20, "preco_oferta": null, "esgotado": false, "in_scope_informatica": true},
+    {"pagina": 15, "modelo_codigo": "LEY-216", "descricao": "CABO DE FORCA", "quantidade_caixa": 300, "preco_regular": 3.50, "preco_oferta": null, "esgotado": false, "in_scope_informatica": false},
+    {"pagina": 15, "modelo_codigo": "LEY-217", "descricao": "CABO DE FORCA", "quantidade_caixa": 300, "preco_regular": 3.50, "preco_oferta": null, "esgotado": false, "in_scope_informatica": false},
+    {"pagina": 15, "modelo_codigo": "LEY-1540", "descricao": "CABO DE RADIO", "quantidade_caixa": 500, "preco_regular": 1.99, "preco_oferta": null, "esgotado": false, "in_scope_informatica": false},
+    {"pagina": 15, "modelo_codigo": "LEY-01", "descricao": "CABO HDMI VGA", "quantidade_caixa": 250, "preco_regular": 6.20, "preco_oferta": null, "esgotado": false, "in_scope_informatica": true}
+  ]
+}

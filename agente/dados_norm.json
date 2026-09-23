@@ -1,0 +1,3942 @@
+[
+ {
+  "modelo_codigo": "NY-65",
+  "descricao": "AIR HUMIDIFIER 9.8*8.0CM",
+  "quantidade_caixa": 100,
+  "preco_regular": 6.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-66",
+  "descricao": "AIR HUMIDIFIER 9.8*8.0CM",
+  "quantidade_caixa": 100,
+  "preco_regular": 6.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-67",
+  "descricao": "AIR HUMIDIFIER",
+  "quantidade_caixa": 100,
+  "preco_regular": 10.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-68",
+  "descricao": "AIR HUMIDIFIER 14.5*8.0CM",
+  "quantidade_caixa": 100,
+  "preco_regular": 10.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-73",
+  "descricao": "LED LANTERNA",
+  "quantidade_caixa": 240,
+  "preco_regular": 10.49,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-74",
+  "descricao": "LED LANTERNA",
+  "quantidade_caixa": 240,
+  "preco_regular": 10.49,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-76",
+  "descricao": "LED LANTERNA",
+  "quantidade_caixa": 120,
+  "preco_regular": 12.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-83",
+  "descricao": "LUZ SOLAR DE ACAMPAMENTO",
+  "quantidade_caixa": 72,
+  "preco_regular": 15.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-15",
+  "descricao": "BOMBA DA AGUUA ELETRICA",
+  "quantidade_caixa": 60,
+  "preco_regular": 14.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-17",
+  "descricao": "BOMBA DA AGUUA ELETRICA",
+  "quantidade_caixa": 60,
+  "preco_regular": 17.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-32",
+  "descricao": "PROJETOR ESTELAR NEBULOSA",
+  "quantidade_caixa": 24,
+  "preco_regular": 42.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-50",
+  "descricao": "FUNTE ALIMENTACAO 12V 5A",
+  "quantidade_caixa": 100,
+  "preco_regular": 10.9,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LES-M3XC",
+  "descricao": "CAIXA DE SOM",
+  "quantidade_caixa": 100,
+  "preco_regular": 11.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 19.0
+ },
+ {
+  "modelo_codigo": "LES-3188",
+  "descricao": "RADIO BT+蓝牙",
+  "quantidade_caixa": 30,
+  "preco_regular": 55.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LES-1776",
+  "descricao": "RADIO BT+蓝牙",
+  "quantidade_caixa": 30,
+  "preco_regular": 55.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LES-808",
+  "descricao": "RADIO BT+蓝牙",
+  "quantidade_caixa": 24,
+  "preco_regular": 63.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2199",
+  "descricao": "MARMITA ELÉTRICA BIVOLT",
+  "quantidade_caixa": 32,
+  "preco_regular": 36.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2200",
+  "descricao": "110/220V BANDEIJA INOX BIVOLT 110/220V",
+  "quantidade_caixa": 24,
+  "preco_regular": 48.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1522C",
+  "descricao": "SUPORTE TV",
+  "quantidade_caixa": 20,
+  "preco_regular": 22.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 28.0
+ },
+ {
+  "modelo_codigo": "LEY-1524C",
+  "descricao": "SUPORTE TV32--55",
+  "quantidade_caixa": 10,
+  "preco_regular": 45.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 48.0
+ },
+ {
+  "modelo_codigo": "LEY-1518B",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 20,
+  "preco_regular": 42.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 48.0
+ },
+ {
+  "modelo_codigo": "LEY-1525D",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 10,
+  "preco_regular": 35.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 45.0
+ },
+ {
+  "modelo_codigo": "LEY-1521B",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 20,
+  "preco_regular": 45.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1585D",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 10,
+  "preco_regular": 60.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 65.0
+ },
+ {
+  "modelo_codigo": "LEY-3110A",
+  "descricao": "TRIPE 1.1M",
+  "quantidade_caixa": 40,
+  "preco_regular": 19.0,
+  "preco_oferta": 17.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3110B",
+  "descricao": "TRIPE 1.3M",
+  "quantidade_caixa": 40,
+  "preco_regular": 20.0,
+  "preco_oferta": 18.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3110C",
+  "descricao": "TRIPE 1.5M",
+  "quantidade_caixa": 40,
+  "preco_regular": 22.0,
+  "preco_oferta": 20.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1601",
+  "descricao": "SUPORTE DE MOTO",
+  "quantidade_caixa": 100,
+  "preco_regular": 14.0,
+  "preco_oferta": 13.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3120A",
+  "descricao": "TRIPE 1.1M",
+  "quantidade_caixa": 40,
+  "preco_regular": 20.0,
+  "preco_oferta": 18.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3120B",
+  "descricao": "TRIPE 1.3M",
+  "quantidade_caixa": 40,
+  "preco_regular": 22.0,
+  "preco_oferta": 20.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3120C",
+  "descricao": "TRIPE 1.5M",
+  "quantidade_caixa": 40,
+  "preco_regular": 24.0,
+  "preco_oferta": 22.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1575",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 7.5,
+  "preco_oferta": 5.98,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 10.0
+ },
+ {
+  "modelo_codigo": "LEF-137",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 60,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1005",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 80,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1005B",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 60,
+  "preco_regular": 55.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1029A",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 80,
+  "preco_regular": 32.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1000",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": 16.8,
+  "preco_oferta": 14.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1003",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": 16.8,
+  "preco_oferta": 14.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1017",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1021",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": 19.0,
+  "preco_oferta": 16.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1059",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1032C",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1019",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1018",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 60,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1026",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 80,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1029",
+  "descricao": "FONE BLUTOOTH",
+  "quantidade_caixa": 80,
+  "preco_regular": 25.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1002",
+  "descricao": "FONE COM FIO",
+  "quantidade_caixa": 100,
+  "preco_regular": 10.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1207",
+  "descricao": "FONE COM FIO",
+  "quantidade_caixa": 100,
+  "preco_regular": 10.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1078",
+  "descricao": "FONE COM FIO",
+  "quantidade_caixa": 100,
+  "preco_regular": 15.0,
+  "preco_oferta": 13.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1079",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 80,
+  "preco_regular": 18.0,
+  "preco_oferta": 15.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1051",
+  "descricao": "FONE DE GAMER",
+  "quantidade_caixa": 80,
+  "preco_regular": 22.0,
+  "preco_oferta": 18.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-35",
+  "descricao": "FONE PS4/XBOX",
+  "quantidade_caixa": 80,
+  "preco_regular": 22.0,
+  "preco_oferta": 18.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1040",
+  "descricao": "FONE GAME 7.1USB",
+  "quantidade_caixa": 80,
+  "preco_regular": 32.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 29.99
+ },
+ {
+  "modelo_codigo": "LEF-1209",
+  "descricao": "FONE GAME 7.1USB",
+  "quantidade_caixa": 60,
+  "preco_regular": 55.0,
+  "preco_oferta": 34.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1210",
+  "descricao": "FONE GAME 7.1USB",
+  "quantidade_caixa": 60,
+  "preco_regular": 55.0,
+  "preco_oferta": 34.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1211",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 60,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1212",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 60,
+  "preco_regular": 38.0,
+  "preco_oferta": 29.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1213",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 60,
+  "preco_regular": 38.0,
+  "preco_oferta": 29.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2248",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 55.0,
+  "preco_oferta": 38.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2247",
+  "descricao": "FONE GAME 7.1USB RBG",
+  "quantidade_caixa": 20,
+  "preco_regular": 68.0,
+  "preco_oferta": 57.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2249",
+  "descricao": "FONE GAME 7.1USB RBG",
+  "quantidade_caixa": 20,
+  "preco_regular": 78.0,
+  "preco_oferta": 57.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2250",
+  "descricao": "FONE GAME 7.1USB RBG",
+  "quantidade_caixa": 20,
+  "preco_regular": 85.0,
+  "preco_oferta": 69.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1031A",
+  "descricao": "FONE GAME SEM FIO",
+  "quantidade_caixa": 60,
+  "preco_regular": 70.0,
+  "preco_oferta": 45.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1032A",
+  "descricao": "FONE GAME SEM FIO",
+  "quantidade_caixa": 60,
+  "preco_regular": 70.0,
+  "preco_oferta": 45.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2262",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 58.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2263",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 58.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2264",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2301",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 60.0,
+  "preco_oferta": 49.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2300",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 65.0,
+  "preco_oferta": 58.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2302",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 65.0,
+  "preco_oferta": 58.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2303",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 65.0,
+  "preco_oferta": 58.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2304",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 75.0,
+  "preco_oferta": 68.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2305",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 80.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2306",
+  "descricao": "FONE GAMER+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 85.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2307",
+  "descricao": "ENC降噪+震动+转换头ADAPTADOR",
+  "quantidade_caixa": 20,
+  "preco_regular": 135.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2253",
+  "descricao": "FONE DE GAME SEM FIO BT+WIFI",
+  "quantidade_caixa": 20,
+  "preco_regular": 110.0,
+  "preco_oferta": 98.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-AP13",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 17.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1075",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1076",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 2.5
+ },
+ {
+  "modelo_codigo": "LEF-1030",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": 2.5
+ },
+ {
+  "modelo_codigo": "LEF-1056",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 2.5
+ },
+ {
+  "modelo_codigo": "LEF-1057",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1053",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": 2.19,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1217",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": 2.19,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1216",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": 2.1,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1208",
+  "descricao": "FONE TYPEC",
+  "quantidade_caixa": 300,
+  "preco_regular": 6.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1541",
+  "descricao": "FONE IPHONE BT+蓝牙(塑封)",
+  "quantidade_caixa": 300,
+  "preco_regular": 6.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 9.5
+ },
+ {
+  "modelo_codigo": "LEY-1536",
+  "descricao": "FONE IPHONE BT+蓝牙(塑封)",
+  "quantidade_caixa": 300,
+  "preco_regular": 6.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1215",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": 2.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1077",
+  "descricao": "FONE TYPEC",
+  "quantidade_caixa": 300,
+  "preco_regular": 7.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-M60",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 20.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-A6R",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-Y60",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 18.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-Y70",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 20.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-Y80",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 20.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-Y90",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 20.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-G6S",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 19.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-H6",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-365A",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 32.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-365C",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 32.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-PRO60",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-PRO70",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 21.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-PRO80",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 22.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-PRO90",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-GM10原GM12",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-366C",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": 32.0,
+  "preco_oferta": 24.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-AP15",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-367",
+  "descricao": "FONE SEM FIO TWS",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-2001",
+  "descricao": "FONE DE OUVIDO（包好）",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.2,
+  "preco_oferta": 0.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-2003",
+  "descricao": "FONE COLORIDO（包好）",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.2,
+  "preco_oferta": 0.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-2011",
+  "descricao": "FONE DE OUVIDO（包好）",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.4,
+  "preco_oferta": 1.15,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-2013",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.65,
+  "preco_oferta": 1.49,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-963",
+  "descricao": "CONTROLE REMOTO UNIVERSAL LCD LG",
+  "quantidade_caixa": 200,
+  "preco_regular": 5.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-967",
+  "descricao": "SAMSUNG SON CONTROLE REMOTO UNIVERSAL",
+  "quantidade_caixa": 200,
+  "preco_regular": 4.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-968",
+  "descricao": "CONTROLE REMOTO UNIVERSAL SAMSUNG TCL",
+  "quantidade_caixa": 200,
+  "preco_regular": 4.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-969",
+  "descricao": "CONTROLE REMOTO UNIVERSAL PHILIS",
+  "quantidade_caixa": 200,
+  "preco_regular": 4.9,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2308",
+  "descricao": "CONTROLE TV BOX",
+  "quantidade_caixa": 300,
+  "preco_regular": 3.2,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-976",
+  "descricao": "CONTROLE AR CONDICIONADO UNIVERSAL",
+  "quantidade_caixa": 200,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-979",
+  "descricao": "CONTROLE AR CONDICIONADO",
+  "quantidade_caixa": 200,
+  "preco_regular": 8.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-AG3",
+  "descricao": "CARTERA/CX UNIVERSAL PILHA BOTAO DE LITIO PRECO CARTERA",
+  "quantidade_caixa": 1,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-46",
+  "descricao": "CHARGER PILHA",
+  "quantidade_caixa": 120,
+  "preco_regular": 14.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2040",
+  "descricao": "CARREGADOR BATERIA",
+  "quantidade_caixa": 200,
+  "preco_regular": 6.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2036",
+  "descricao": "CARREGADOR BATERIA USB款",
+  "quantidade_caixa": 200,
+  "preco_regular": 9.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2043",
+  "descricao": "CARREGADOR BATERIA",
+  "quantidade_caixa": 200,
+  "preco_regular": 11.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2032",
+  "descricao": "CARREGADOR BATERIA USB款",
+  "quantidade_caixa": 400,
+  "preco_regular": 2.3,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2033",
+  "descricao": "CARREGADOR BATERIA USB款",
+  "quantidade_caixa": 400,
+  "preco_regular": 2.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2034",
+  "descricao": "CARREGADOR BATERIA USB",
+  "quantidade_caixa": 300,
+  "preco_regular": 4.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2181",
+  "descricao": "SUPORTE MULTIFUNCIONAL",
+  "quantidade_caixa": 20,
+  "preco_regular": 23.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1544",
+  "descricao": "MAQUINA CORTA CABELO",
+  "quantidade_caixa": 60,
+  "preco_regular": 7.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-183",
+  "descricao": "MINI TECLADO BT+蓝牙+WIFI",
+  "quantidade_caixa": 100,
+  "preco_regular": 13.5,
+  "preco_oferta": 11.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2002",
+  "descricao": "RBG ELASTICO 38MM",
+  "quantidade_caixa": 300,
+  "preco_regular": 3.5,
+  "preco_oferta": 3.19,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2003",
+  "descricao": "ELASTICO 55MM",
+  "quantidade_caixa": 300,
+  "preco_regular": 3.5,
+  "preco_oferta": 3.19,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-47",
+  "descricao": "CARREGADOR NOTEBOOK",
+  "quantidade_caixa": 100,
+  "preco_regular": 21.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-63",
+  "descricao": "FUNTE ALIMENTACAO 12V",
+  "quantidade_caixa": 200,
+  "preco_regular": 8.5,
+  "preco_oferta": 7.9,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 8.0
+ },
+ {
+  "modelo_codigo": "LEY-62",
+  "descricao": "3A FUNTE LIMENTACAO 12V",
+  "quantidade_caixa": 200,
+  "preco_regular": 7.5,
+  "preco_oferta": 6.8,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 7.0
+ },
+ {
+  "modelo_codigo": "LEY-64",
+  "descricao": "3A FUNTE ALIMENTACAO 12V 5A",
+  "quantidade_caixa": 100,
+  "preco_regular": 12.5,
+  "preco_oferta": 10.9,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 11.5
+ },
+ {
+  "modelo_codigo": "NY-52",
+  "descricao": "FUNTE ALI.. 12V 3.5A",
+  "quantidade_caixa": 200,
+  "preco_regular": 12.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-51",
+  "descricao": "FUNTE ALIMENTACAO 5V",
+  "quantidade_caixa": 250,
+  "preco_regular": 5.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-48",
+  "descricao": "3.1A FUNTE LIMENTACAO 12V",
+  "quantidade_caixa": 200,
+  "preco_regular": 6.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-50",
+  "descricao": "3A FUNTE ALIMENTACAO 12V 5A",
+  "quantidade_caixa": 100,
+  "preco_regular": 10.9,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-65",
+  "descricao": "AIR HUMIDIFIER 9.8*8.0CM",
+  "quantidade_caixa": 100,
+  "preco_regular": 6.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-66",
+  "descricao": "AIR HUMIDIFIER 9.8*8.0CM",
+  "quantidade_caixa": 100,
+  "preco_regular": 6.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-67",
+  "descricao": "AIR HUMIDIFIER",
+  "quantidade_caixa": 100,
+  "preco_regular": 10.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-68",
+  "descricao": "AIR HUMIDIFIER 14.5*8.0CM",
+  "quantidade_caixa": 100,
+  "preco_regular": 10.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2060",
+  "descricao": "MP5 PLAY DIGITAL",
+  "quantidade_caixa": 20,
+  "preco_regular": 138.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2061",
+  "descricao": "MP5 PLAY DIGITAL",
+  "quantidade_caixa": 20,
+  "preco_regular": 143.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2062",
+  "descricao": "MP5 PLAY DIGITAL",
+  "quantidade_caixa": 20,
+  "preco_regular": 138.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2199",
+  "descricao": "MARMITA ELÉTRICA BIVOLT 110/220V",
+  "quantidade_caixa": 32,
+  "preco_regular": 36.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-07",
+  "descricao": "BOMBA DA AGUUA ELETRICA",
+  "quantidade_caixa": 60,
+  "preco_regular": 9.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-15",
+  "descricao": "BOMBA DA AGUUA ELETRICA",
+  "quantidade_caixa": 60,
+  "preco_regular": 14.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-17",
+  "descricao": "BOMBA DA AGUUA ELETRICA",
+  "quantidade_caixa": 60,
+  "preco_regular": 17.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2200",
+  "descricao": "BANDEIJA INOX BIVOLT 110/220V",
+  "quantidade_caixa": 24,
+  "preco_regular": 48.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1917",
+  "descricao": "CAIXA DE SOM PARA PC",
+  "quantidade_caixa": 60,
+  "preco_regular": 20.0,
+  "preco_oferta": 17.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1916",
+  "descricao": "CAIXA DE SOM PARA PC",
+  "quantidade_caixa": 45,
+  "preco_regular": 24.99,
+  "preco_oferta": 19.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LES-M3XC",
+  "descricao": "CAIXA DE SOM",
+  "quantidade_caixa": 100,
+  "preco_regular": 11.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 19.0
+ },
+ {
+  "modelo_codigo": "LES-Q3",
+  "descricao": "RADIO BT+蓝牙",
+  "quantidade_caixa": 50,
+  "preco_regular": 21.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LES-3188",
+  "descricao": "RADIO BT+蓝牙",
+  "quantidade_caixa": 30,
+  "preco_regular": 55.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LES-1776",
+  "descricao": "RADIO BT+蓝牙",
+  "quantidade_caixa": 30,
+  "preco_regular": 55.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LES-808",
+  "descricao": "RADIO BT+蓝牙",
+  "quantidade_caixa": 24,
+  "preco_regular": 63.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-32",
+  "descricao": "PROJETOR ESTELAR NEBULOSA",
+  "quantidade_caixa": 24,
+  "preco_regular": 42.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2168",
+  "descricao": "MICROFONE PROFISSIONAL COM",
+  "quantidade_caixa": 50,
+  "preco_regular": 11.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2167",
+  "descricao": "FIO MICROFONE PROFISSIONAL COM",
+  "quantidade_caixa": 60,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2169",
+  "descricao": "FIO MICROFONE PROFISSIONAL COM",
+  "quantidade_caixa": 100,
+  "preco_regular": 11.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2292",
+  "descricao": "FIO ANTENA DIGITAL 5M",
+  "quantidade_caixa": 100,
+  "preco_regular": 7.0,
+  "preco_oferta": 6.49,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2266",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 600,
+  "preco_regular": 3.0,
+  "preco_oferta": 2.49,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2241",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2244",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 200,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1896",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 120,
+  "preco_regular": 8.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1899",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 120,
+  "preco_regular": 8.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2271",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 120,
+  "preco_regular": 11.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1898",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 100,
+  "preco_regular": 15.0,
+  "preco_oferta": 12.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1894",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 80,
+  "preco_regular": 13.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2245",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 120,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2240",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 60,
+  "preco_regular": 14.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2242",
+  "descricao": "CALCULADORA",
+  "quantidade_caixa": 80,
+  "preco_regular": 17.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-60",
+  "descricao": "CARREGADOR BATERIA",
+  "quantidade_caixa": 300,
+  "preco_regular": 3.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 4.0
+ },
+ {
+  "modelo_codigo": "LEY-33",
+  "descricao": "CASE HD USB",
+  "quantidade_caixa": 240,
+  "preco_regular": 10.0,
+  "preco_oferta": 7.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 10.75
+ },
+ {
+  "modelo_codigo": "LEY-06",
+  "descricao": "CASE HD USB",
+  "quantidade_caixa": 240,
+  "preco_regular": 14.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 16.5
+ },
+ {
+  "modelo_codigo": "LEY-2293",
+  "descricao": "CASE HD USB",
+  "quantidade_caixa": 250,
+  "preco_regular": 10.0,
+  "preco_oferta": 7.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2294",
+  "descricao": "CASE HD USB",
+  "quantidade_caixa": 250,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1839",
+  "descricao": "HUB2.0 5USB",
+  "quantidade_caixa": 100,
+  "preco_regular": 15.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-11",
+  "descricao": "HUB2.0 4USB",
+  "quantidade_caixa": 300,
+  "preco_regular": 4.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 3.25
+ },
+ {
+  "modelo_codigo": "LEY-21",
+  "descricao": "HUB2.0 4USB",
+  "quantidade_caixa": 300,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": 5.5
+ },
+ {
+  "modelo_codigo": "LEY-200",
+  "descricao": "HUB3.0 4USB",
+  "quantidade_caixa": 250,
+  "preco_regular": 8.9,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-201",
+  "descricao": "HUB3.0 4USB",
+  "quantidade_caixa": 250,
+  "preco_regular": 12.0,
+  "preco_oferta": 11.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 12.0
+ },
+ {
+  "modelo_codigo": "LEY-199",
+  "descricao": "HUB3.0 7USB",
+  "quantidade_caixa": 250,
+  "preco_regular": 16.0,
+  "preco_oferta": 15.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-28",
+  "descricao": "MOUSE COM FIO",
+  "quantidade_caixa": 200,
+  "preco_regular": 3.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1564",
+  "descricao": "MOUSE COM FIO",
+  "quantidade_caixa": 200,
+  "preco_regular": 4.99,
+  "preco_oferta": 4.49,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 6.5
+ },
+ {
+  "modelo_codigo": "LEY-1514",
+  "descricao": "MOUSE COM FIO",
+  "quantidade_caixa": 200,
+  "preco_regular": 5.99,
+  "preco_oferta": 4.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1505",
+  "descricao": "MOUSE COM FIO",
+  "quantidade_caixa": 200,
+  "preco_regular": 5.99,
+  "preco_oferta": 5.49,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1506",
+  "descricao": "MOUSE COM FIO",
+  "quantidade_caixa": 200,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1512",
+  "descricao": "MOUSE COM FIO",
+  "quantidade_caixa": 200,
+  "preco_regular": 5.99,
+  "preco_oferta": 4.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-208",
+  "descricao": "MOUSE COM FIO",
+  "quantidade_caixa": 200,
+  "preco_regular": 5.99,
+  "preco_oferta": 5.49,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1513",
+  "descricao": "MOUSE COM FIO",
+  "quantidade_caixa": 200,
+  "preco_regular": 5.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1504",
+  "descricao": "MOUSE COM FIO",
+  "quantidade_caixa": 200,
+  "preco_regular": 6.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-207",
+  "descricao": "MOUSE COM FIO",
+  "quantidade_caixa": 200,
+  "preco_regular": 6.99,
+  "preco_oferta": 6.49,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-172",
+  "descricao": "MOUSE BLUTOOTH",
+  "quantidade_caixa": 200,
+  "preco_regular": 10.0,
+  "preco_oferta": 9.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 11.0
+ },
+ {
+  "modelo_codigo": "LEY-180",
+  "descricao": "MOUSE2.4 WIRLESS 10M",
+  "quantidade_caixa": 100,
+  "preco_regular": 11.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-181",
+  "descricao": "MOUSE2.4+BT+蓝牙5.2",
+  "quantidade_caixa": 100,
+  "preco_regular": 13.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-181",
+  "descricao": "B MOUSE2.4+BT+蓝牙5.4",
+  "quantidade_caixa": 100,
+  "preco_regular": 13.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-214",
+  "descricao": "KIT TECLADO COM MOUSE",
+  "quantidade_caixa": 30,
+  "preco_regular": 28.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-174",
+  "descricao": "TECLADO SEM FIO 黑P40白B20",
+  "quantidade_caixa": 60,
+  "preco_regular": 27.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-176C",
+  "descricao": "TECLADO SEM FIO",
+  "quantidade_caixa": 50,
+  "preco_regular": 19.99,
+  "preco_oferta": 19.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-176B",
+  "descricao": "KIT TECLADO COM MOUSE",
+  "quantidade_caixa": 50,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2118",
+  "descricao": "TECLADO GAME RGB",
+  "quantidade_caixa": 30,
+  "preco_regular": 35.0,
+  "preco_oferta": 26.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2076",
+  "descricao": "TECLADO GAME RGB",
+  "quantidade_caixa": 30,
+  "preco_regular": 30.0,
+  "preco_oferta": 26.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2088",
+  "descricao": "TECLADO GAME RGB",
+  "quantidade_caixa": 30,
+  "preco_regular": 26.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-176A",
+  "descricao": "KIT TECLADO SEM FIO",
+  "quantidade_caixa": 20,
+  "preco_regular": 49.99,
+  "preco_oferta": 45.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2074",
+  "descricao": "KIT TECLADO MOUSE RGB",
+  "quantidade_caixa": 30,
+  "preco_regular": 37.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2273",
+  "descricao": "KIT TECLADO MOUSE RGB",
+  "quantidade_caixa": 20,
+  "preco_regular": 45.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2077",
+  "descricao": "KIT TECLADO MOUSE RGB",
+  "quantidade_caixa": 20,
+  "preco_regular": 38.0,
+  "preco_oferta": 36.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2078",
+  "descricao": "KIT TECLADO MOUSE RGB",
+  "quantidade_caixa": 20,
+  "preco_regular": 38.0,
+  "preco_oferta": 37.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2092",
+  "descricao": "TECLADO MECANICO RGB真机械",
+  "quantidade_caixa": 20,
+  "preco_regular": 80.0,
+  "preco_oferta": 69.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2079",
+  "descricao": "TECLADO MECANICO RGB真机械",
+  "quantidade_caixa": 20,
+  "preco_regular": 65.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2080",
+  "descricao": "TECLADO MECANICO RGB真机械",
+  "quantidade_caixa": 20,
+  "preco_regular": 75.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1939",
+  "descricao": "MINI PROCESSADOR",
+  "quantidade_caixa": 60,
+  "preco_regular": 13.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-16",
+  "descricao": "CABO P2 FEMEA P2 1.5M",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.2,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-14",
+  "descricao": "CABO P2 3RCA",
+  "quantidade_caixa": 750,
+  "preco_regular": 1.6,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-15",
+  "descricao": "CABO P2 2RCA 1.5M",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-215",
+  "descricao": "CABO VGA VGA",
+  "quantidade_caixa": 300,
+  "preco_regular": 3.2,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 3.8
+ },
+ {
+  "modelo_codigo": "LEY-216",
+  "descricao": "CABO DE FORCA品(粗)",
+  "quantidade_caixa": 300,
+  "preco_regular": 3.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-217",
+  "descricao": "CABO DE FORCA♣(粗)",
+  "quantidade_caixa": 300,
+  "preco_regular": 3.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 3.8
+ },
+ {
+  "modelo_codigo": "LEY-1540",
+  "descricao": "CABO DE RADIO",
+  "quantidade_caixa": 500,
+  "preco_regular": 1.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 2.5
+ },
+ {
+  "modelo_codigo": "LEY-01",
+  "descricao": "CABO HDMI VGA",
+  "quantidade_caixa": 250,
+  "preco_regular": 6.2,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 8.5
+ },
+ {
+  "modelo_codigo": "LEY-278",
+  "descricao": "AIR HUMIDIFIER 13CM",
+  "quantidade_caixa": 48,
+  "preco_regular": 25.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2102",
+  "descricao": "KIT FITA LED RGB",
+  "quantidade_caixa": 60,
+  "preco_regular": 15.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-410",
+  "descricao": "FITA LED RGB户外",
+  "quantidade_caixa": 48,
+  "preco_regular": 75.0,
+  "preco_oferta": 58.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2219",
+  "descricao": "LED LANTERNA",
+  "quantidade_caixa": 48,
+  "preco_regular": 24.99,
+  "preco_oferta": 19.8,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-73",
+  "descricao": "LED LANTERNA",
+  "quantidade_caixa": 240,
+  "preco_regular": 10.49,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-74",
+  "descricao": "LED LANTERNA",
+  "quantidade_caixa": 240,
+  "preco_regular": 10.49,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-76",
+  "descricao": "LED LANTERNA",
+  "quantidade_caixa": 120,
+  "preco_regular": 12.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-83",
+  "descricao": "LUZ SOLAR DE ACAMPAMENTO",
+  "quantidade_caixa": 72,
+  "preco_regular": 15.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-02",
+  "descricao": "RING LIGHT 10POLEGADAS",
+  "quantidade_caixa": 30,
+  "preco_regular": 32.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2297",
+  "descricao": "TRIPE2.1M LUMINARIA DE PE RGB 1M",
+  "quantidade_caixa": 50,
+  "preco_regular": 38.99,
+  "preco_oferta": 34.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-22",
+  "descricao": "RING LIGHT 19POLEGADAS",
+  "quantidade_caixa": 10,
+  "preco_regular": 119.99,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-19",
+  "descricao": "配NY-95 RING LIGHT 24POLEGADAS 配NY-95",
+  "quantidade_caixa": 10,
+  "preco_regular": 125.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2232",
+  "descricao": "RING 13POLEGADAS TRIPE2.1M",
+  "quantidade_caixa": 20,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2233",
+  "descricao": "RING 18POLEGADAS TRIPE2.1M",
+  "quantidade_caixa": 10,
+  "preco_regular": 95.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1921",
+  "descricao": "LUMINARIA",
+  "quantidade_caixa": 20,
+  "preco_regular": 30.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1930",
+  "descricao": "14POLEGADAS TRIPE2.1M",
+  "quantidade_caixa": 15,
+  "preco_regular": 78.0,
+  "preco_oferta": 68.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-25",
+  "descricao": "LUZ DE PREENCHIMENTO DE",
+  "quantidade_caixa": 200,
+  "preco_regular": 7.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-07",
+  "descricao": "LED LANPADA CORORIDO",
+  "quantidade_caixa": 100,
+  "preco_regular": 7.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 9.0
+ },
+ {
+  "modelo_codigo": "NY-18",
+  "descricao": "LANPADA GIRATORIA CORORIDO",
+  "quantidade_caixa": 100,
+  "preco_regular": 7.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-30",
+  "descricao": "LANPADA GIRATORIA CORORIDO",
+  "quantidade_caixa": 100,
+  "preco_regular": 7.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2147",
+  "descricao": "LANPADA GIRATORIA CORORIDO",
+  "quantidade_caixa": 100,
+  "preco_regular": 9.5,
+  "preco_oferta": 7.8,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1734",
+  "descricao": "LANPADA BLUTOOTH LANPADA",
+  "quantidade_caixa": 100,
+  "preco_regular": 12.0,
+  "preco_oferta": 11.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1733",
+  "descricao": "LEY-WJ-L2 BLUTOOTH LANPADA BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": 11.5,
+  "preco_oferta": 11.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1735",
+  "descricao": "LANPADA BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": 12.0,
+  "preco_oferta": 11.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1736",
+  "descricao": "LANPADA BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": 12.0,
+  "preco_oferta": 11.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-31",
+  "descricao": "LANPADA GIRATORIA CORORIDO",
+  "quantidade_caixa": 100,
+  "preco_regular": 10.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-38",
+  "descricao": "LANPADA BLUTOOTH",
+  "quantidade_caixa": 100,
+  "preco_regular": 15.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-28",
+  "descricao": "LANPADA BLUTOOTH",
+  "quantidade_caixa": 30,
+  "preco_regular": 32.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2156",
+  "descricao": "LANPADA BLUTOOTH",
+  "quantidade_caixa": 36,
+  "preco_regular": 38.0,
+  "preco_oferta": 32.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-35",
+  "descricao": "LANPADA BLUTOOTH",
+  "quantidade_caixa": 36,
+  "preco_regular": 38.0,
+  "preco_oferta": 32.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-357IOS",
+  "descricao": "KIT PD C/IOS(25W KIT PD",
+  "quantidade_caixa": 300,
+  "preco_regular": 13.68,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-357TYPEC",
+  "descricao": "LE-357-3 LE-357-4 C/IOS(25W KIT PD C/C(25W KIT PD C/C(25W",
+  "quantidade_caixa": 300,
+  "preco_regular": 13.68,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-357FONTE",
+  "descricao": "LE-487-1 ST-C/IOS ST-USB/IOS FUNTE 20W PD(25W FONTE 50W 2TYP",
+  "quantidade_caixa": 500,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1216",
+  "descricao": "FONE COM MICROFONE",
+  "quantidade_caixa": 1000,
+  "preco_regular": 2.1,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEF-1208",
+  "descricao": "FONE TYPEC",
+  "quantidade_caixa": 300,
+  "preco_regular": 6.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1541",
+  "descricao": "FONE IPHONE BT+蓝牙(塑封)",
+  "quantidade_caixa": 300,
+  "preco_regular": 6.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 9.5
+ },
+ {
+  "modelo_codigo": "LEY-1536",
+  "descricao": "FONE IPHONE BT+蓝牙(塑封)",
+  "quantidade_caixa": 300,
+  "preco_regular": 6.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-382",
+  "descricao": "LE-478C-C LE-477C-C CABO IOS CABO TYPEC- TYPE-C CABO TYPE-C ",
+  "quantidade_caixa": 300,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": 3.8
+ },
+ {
+  "modelo_codigo": "LE-519MICRO",
+  "descricao": "V8 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": 5.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 6.5
+ },
+ {
+  "modelo_codigo": "LE-519TYPEC",
+  "descricao": "TYPE-C 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": 7.0
+ },
+ {
+  "modelo_codigo": "LE-519IOS",
+  "descricao": "LE-520I( SEM IPI IOS 3.1A二合一 IOS 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": 7.0
+ },
+ {
+  "modelo_codigo": "LE-521MICRO",
+  "descricao": "V8 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": 5.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-521IOS",
+  "descricao": "IOS 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-521TYPEC",
+  "descricao": "TYPE-C 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": 7.0
+ },
+ {
+  "modelo_codigo": "LE-518MICRO",
+  "descricao": "V8 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": 5.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 6.5
+ },
+ {
+  "modelo_codigo": "LE-522MICRO",
+  "descricao": "V8 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": 5.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-522IOS",
+  "descricao": "IOS 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-522TYPEC",
+  "descricao": "TYPE-C 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": 7.0
+ },
+ {
+  "modelo_codigo": "LE-518TYPEC",
+  "descricao": "TYPE-C 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": 7.0
+ },
+ {
+  "modelo_codigo": "LE-520MICRO",
+  "descricao": "V8 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": 5.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-520IOS",
+  "descricao": "LE-512-2 IOS 3.1A二合一",
+  "quantidade_caixa": 400,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-608MICRO",
+  "descricao": "CARREGADOR V8 3.1A 3USB MICRO 4.1A",
+  "quantidade_caixa": 300,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-355TYPEC",
+  "descricao": "LE-507-2 LE-507-3 LE-507-4 2USB 3.1A MICRO 2USB 3.1A IOS 2US",
+  "quantidade_caixa": 300,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-405MICRO",
+  "descricao": "TUBRO POWER V8",
+  "quantidade_caixa": 300,
+  "preco_regular": 9.0,
+  "preco_oferta": 8.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-405IOS",
+  "descricao": "TUBRO POWER IOS",
+  "quantidade_caixa": 300,
+  "preco_regular": 9.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-407MICRO",
+  "descricao": "TUBRO POWER V8",
+  "quantidade_caixa": 300,
+  "preco_regular": 9.0,
+  "preco_oferta": 8.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-407IOS",
+  "descricao": "TUBRO POWER IPHONE",
+  "quantidade_caixa": 300,
+  "preco_regular": 9.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-405A",
+  "descricao": "+IOS LE-1-2 LE-1-3 LE-1-4 TUBRO POWER C+IOS TUBRO POWER MICR",
+  "quantidade_caixa": 300,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-90FUNTE",
+  "descricao": "TUBRO POWER",
+  "quantidade_caixa": 300,
+  "preco_regular": 7.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-90MICRO",
+  "descricao": "TUBRO POWER MICRO",
+  "quantidade_caixa": 300,
+  "preco_regular": 9.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-90",
+  "descricao": "IOS TUBRO POWER IOS",
+  "quantidade_caixa": 300,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-90",
+  "descricao": "TYPE-C TUBRO POWER TYPE-C",
+  "quantidade_caixa": 300,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2216",
+  "descricao": "CABO MICRO 3A 1M",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2217",
+  "descricao": "CABO TYPE-C 3A 1M",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.2,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2218",
+  "descricao": "CABO IPHONE 3A 1M",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1842",
+  "descricao": "CABO TURBO V8",
+  "quantidade_caixa": 500,
+  "preco_regular": 1.4,
+  "preco_oferta": 1.2,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-57",
+  "descricao": "LE-2099-V8 LE-2100-TC LE-2101-IOS CABO MICRO 1M CABO TYPEC 1",
+  "quantidade_caixa": 500,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1844",
+  "descricao": "LE-2096-V8 LE-2097-TC LE-2098-IOS CABO MICRO 1M CABO TYPEC 1",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.2,
+  "preco_oferta": 1.55,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1984",
+  "descricao": "CABO MICRO 3A 1M",
+  "quantidade_caixa": 500,
+  "preco_regular": 1.7,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1985",
+  "descricao": "CABO TYPE-C 3A 1M",
+  "quantidade_caixa": 500,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1986",
+  "descricao": "LE-2204-V8 CABO IPHONE 3A 1M CABO MICRO 5.1A 1M",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1987",
+  "descricao": "CABO MICRO 3A 2M LE-2014-V8 CABO MICRO 1M LE-2017-V8 CABO MI",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.1,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1988",
+  "descricao": "CABO TYPE-C 3A 2M LE-2015-TC CABO TYPEC 1M LE-2018-TC CABO T",
+  "quantidade_caixa": 500,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1989",
+  "descricao": "LE-2008-V8 CABO IPHONE 3A 2M CABO MICRO 1M LE-2016-IOS LE-22",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.6,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-376MICRO",
+  "descricao": "LE-2026-V8 LE-2011-V8 LE-2029-V8 300/CX CABO MICRO 2M CABO M",
+  "quantidade_caixa": 500,
+  "preco_regular": 3.3,
+  "preco_oferta": 1.4,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-62",
+  "descricao": "CABO MICRO 2M",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.1,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-63",
+  "descricao": "CABO TYPE-C 2M",
+  "quantidade_caixa": 500,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "NY-64",
+  "descricao": "CABO IOS 2M",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-377TYPEC",
+  "descricao": "300/CX CABO TYPE-C 30CM",
+  "quantidade_caixa": 1,
+  "preco_regular": 2.3,
+  "preco_oferta": 1.65,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1978",
+  "descricao": "CABO MICRO 1.2M",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.6,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1980",
+  "descricao": "CABO IPHONE 1.2M",
+  "quantidade_caixa": 1000,
+  "preco_regular": 1.8,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1981",
+  "descricao": "CABO MICRO 2M",
+  "quantidade_caixa": 500,
+  "preco_regular": 2.3,
+  "preco_oferta": 2.1,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LE-378IOS",
+  "descricao": "300/CX CABO IPHONE 30CM",
+  "quantidade_caixa": 1,
+  "preco_regular": 2.3,
+  "preco_oferta": 1.65,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-12",
+  "descricao": "LE-2134-V8 LE-2128-V8 LE-2137-V8 CABO MICRO 1M CABO MICRO 1M",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1675",
+  "descricao": "LE-2131-V8 LE-2132-TC LE-2133-IOS CABO MICRO 1M CABO TYPEC 1",
+  "quantidade_caixa": 200,
+  "preco_regular": 3.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1677",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 200,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1685",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 300,
+  "preco_regular": 5.3,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1686",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 300,
+  "preco_regular": 5.9,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1660",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 200,
+  "preco_regular": 6.0,
+  "preco_oferta": 5.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1661",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 200,
+  "preco_regular": 6.3,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1575",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 7.5,
+  "preco_oferta": 5.98,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 10.0
+ },
+ {
+  "modelo_codigo": "LEY-1682",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 5.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1645",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 200,
+  "preco_regular": 6.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1691",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 7.0,
+  "preco_oferta": 6.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1695",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 7.5,
+  "preco_oferta": 7.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1666",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 7.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1668",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 8.5,
+  "preco_oferta": 7.8,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1678",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2237",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 8.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1694",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 9.5,
+  "preco_oferta": 8.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1657",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 9.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1689",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 9.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1647",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1602",
+  "descricao": "SUPORTE DE MOTO",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1601",
+  "descricao": "SUPORTE DE MOTO",
+  "quantidade_caixa": 100,
+  "preco_regular": 14.0,
+  "preco_oferta": 13.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2259",
+  "descricao": "SUPORTE PARA CELULAR COM CRRREGA",
+  "quantidade_caixa": 100,
+  "preco_regular": 11.0,
+  "preco_oferta": 9.8,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-230",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2177",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-229",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 5.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3110A",
+  "descricao": "TRIPE 1.1M",
+  "quantidade_caixa": 40,
+  "preco_regular": 19.0,
+  "preco_oferta": 17.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3110B",
+  "descricao": "TRIPE 1.3M",
+  "quantidade_caixa": 40,
+  "preco_regular": 20.0,
+  "preco_oferta": 18.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3110C",
+  "descricao": "TRIPE 1.5M",
+  "quantidade_caixa": 40,
+  "preco_regular": 22.0,
+  "preco_oferta": 20.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1958",
+  "descricao": "SUPORTE CELULAR MOTO",
+  "quantidade_caixa": 100,
+  "preco_regular": 14.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3120A",
+  "descricao": "TRIPE 1.1M",
+  "quantidade_caixa": 40,
+  "preco_regular": 20.0,
+  "preco_oferta": 18.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3120B",
+  "descricao": "TRIPE 1.3M",
+  "quantidade_caixa": 40,
+  "preco_regular": 22.0,
+  "preco_oferta": 20.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-3120C",
+  "descricao": "TRIPE 1.5M",
+  "quantidade_caixa": 40,
+  "preco_regular": 24.0,
+  "preco_oferta": 22.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1959",
+  "descricao": "SUPORTE CELULAR MOTO",
+  "quantidade_caixa": 100,
+  "preco_regular": 15.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1955",
+  "descricao": "SUPORTE CELULAR MOTO",
+  "quantidade_caixa": 100,
+  "preco_regular": 12.5,
+  "preco_oferta": 11.8,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1956",
+  "descricao": "SUPORTE CELULAR MOTO",
+  "quantidade_caixa": 100,
+  "preco_regular": 13.5,
+  "preco_oferta": 12.8,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2120",
+  "descricao": "SUPORTE CELULAR MOTO",
+  "quantidade_caixa": 100,
+  "preco_regular": 13.0,
+  "preco_oferta": 12.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2121",
+  "descricao": "SUPORTE CELULAR MOTO",
+  "quantidade_caixa": 100,
+  "preco_regular": 15.0,
+  "preco_oferta": 13.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2323",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2324",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 100,
+  "preco_regular": 15.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2325",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 44,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-2112",
+  "descricao": "SUPORTE PARA CELULAR",
+  "quantidade_caixa": 50,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1515A",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 20,
+  "preco_regular": 13.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 16.5
+ },
+ {
+  "modelo_codigo": "LEY-1519B",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 20,
+  "preco_regular": 25.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1522C",
+  "descricao": "SUPORTE TV",
+  "quantidade_caixa": 20,
+  "preco_regular": 22.5,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 28.0
+ },
+ {
+  "modelo_codigo": "LEY-1520B",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 20,
+  "preco_regular": 32.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 38.0
+ },
+ {
+  "modelo_codigo": "LEY-1525D",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 10,
+  "preco_regular": 35.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 45.0
+ },
+ {
+  "modelo_codigo": "LEY-1518B",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 20,
+  "preco_regular": 42.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 48.0
+ },
+ {
+  "modelo_codigo": "LEY-1526D",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 10,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1524C",
+  "descricao": "SUPORTE TV32--55 RS45",
+  "quantidade_caixa": 10,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 48.0
+ },
+ {
+  "modelo_codigo": "LEY-1521B",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 20,
+  "preco_regular": 45.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1585D",
+  "descricao": "SUPPORT TV",
+  "quantidade_caixa": 10,
+  "preco_regular": 60.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": 65.0
+ },
+ {
+  "modelo_codigo": "LEY-22",
+  "descricao": "SUPORTE TV",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "LEY-1642",
+  "descricao": "SUPORTE TV",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-565",
+  "descricao": "LENCO DE PAPEL APARTE",
+  "quantidade_caixa": 100,
+  "preco_regular": 3.2,
+  "preco_oferta": 1.99,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-566",
+  "descricao": "LENCO DE PAPEL APARTE",
+  "quantidade_caixa": 80,
+  "preco_regular": 3.8,
+  "preco_oferta": 2.49,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-803",
+  "descricao": "LX ELÉTRICA+SENSOR 12L",
+  "quantidade_caixa": 30,
+  "preco_regular": 48.0,
+  "preco_oferta": 35.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-804",
+  "descricao": "LX ELÉTRICA+SENSOR 12L",
+  "quantidade_caixa": 30,
+  "preco_regular": 48.0,
+  "preco_oferta": 35.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-806",
+  "descricao": "LX ELÉTRICA+SENSOR 12L",
+  "quantidade_caixa": 30,
+  "preco_regular": 48.0,
+  "preco_oferta": 35.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-816",
+  "descricao": "LX ELÉTRICA+SENSOR 12L",
+  "quantidade_caixa": 24,
+  "preco_regular": 48.0,
+  "preco_oferta": 35.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-800",
+  "descricao": "LX ELÉTRICA+SENSOR 14L",
+  "quantidade_caixa": 30,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-801",
+  "descricao": "LX ELÉTRICA+SENSOR 14L",
+  "quantidade_caixa": 30,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-376",
+  "descricao": "LX ELÉTRICA+SENSOR 11L",
+  "quantidade_caixa": 30,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-807",
+  "descricao": "LX ELÉTRICA+SENSOR 15L",
+  "quantidade_caixa": 30,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-798",
+  "descricao": "LX ELÉTRICA+SENSOR 14L",
+  "quantidade_caixa": 30,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-385",
+  "descricao": "LX ELÉTRICA+SENSOR 13L",
+  "quantidade_caixa": 24,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-384",
+  "descricao": "LX ELÉTRICA+SENSOR 13L",
+  "quantidade_caixa": 24,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-799",
+  "descricao": "LX ELÉTRICA+SENSOR 18L",
+  "quantidade_caixa": 30,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-382",
+  "descricao": "LX ELÉTRICA+SENSOR 20L",
+  "quantidade_caixa": 20,
+  "preco_regular": 80.0,
+  "preco_oferta": 65.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-961",
+  "descricao": "LX ELÉTRICA+SENSOR 14L",
+  "quantidade_caixa": 12,
+  "preco_regular": 110.0,
+  "preco_oferta": 89.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-386",
+  "descricao": "DOMINO",
+  "quantidade_caixa": 40,
+  "preco_regular": 13.5,
+  "preco_oferta": 12.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-387",
+  "descricao": "DOMINO",
+  "quantidade_caixa": 40,
+  "preco_regular": 13.5,
+  "preco_oferta": 12.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-716",
+  "descricao": "PORTA JOIA",
+  "quantidade_caixa": 100,
+  "preco_regular": 13.5,
+  "preco_oferta": 9.8,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-511",
+  "descricao": "ST-715(LD-688) PORTA JOIA VACUUM PACKAGER AND",
+  "quantidade_caixa": 40,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-514",
+  "descricao": "SEALER MINI FERRO DE PASSAR ROUPA",
+  "quantidade_caixa": 50,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-516",
+  "descricao": "AFIADOR FACA UTENSILIOS",
+  "quantidade_caixa": 120,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-539",
+  "descricao": "PORTABLE FOLDING IRON CLOTHES",
+  "quantidade_caixa": 50,
+  "preco_regular": 29.0,
+  "preco_oferta": 25.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-499",
+  "descricao": "DRYER SAPATEIRA ORGANIZADOR",
+  "quantidade_caixa": 36,
+  "preco_regular": 25.0,
+  "preco_oferta": 18.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-489",
+  "descricao": "5ANDER SAPATEIRA ORGANIZADOR 6ANDER",
+  "quantidade_caixa": 24,
+  "preco_regular": 30.0,
+  "preco_oferta": null,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-699",
+  "descricao": "SUPORTE MUITIUSO PORTA",
+  "quantidade_caixa": 60,
+  "preco_regular": 8.0,
+  "preco_oferta": 5.0,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-700",
+  "descricao": "TOALHAS SUPORTE MUITIUSO PORTA",
+  "quantidade_caixa": 60,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-701",
+  "descricao": "TOALHAS SUPORTE MUITIUSO PORTA",
+  "quantidade_caixa": 60,
+  "preco_regular": 9.0,
+  "preco_oferta": 5.8,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-740",
+  "descricao": "TOALHAS ESPELHOMAQUIAGEM LED DUP FACE",
+  "quantidade_caixa": 100,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-573",
+  "descricao": "COLAR CERVICAL",
+  "quantidade_caixa": 500,
+  "preco_regular": 9.0,
+  "preco_oferta": 5.8,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-574",
+  "descricao": "COLAR CERVICAL",
+  "quantidade_caixa": 500,
+  "preco_regular": 10.0,
+  "preco_oferta": 6.5,
+  "esgotado": false,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-874",
+  "descricao": "EXTENCAO DE TOMADA CABO",
+  "quantidade_caixa": 48,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ },
+ {
+  "modelo_codigo": "ST-926",
+  "descricao": "2M EXTENCAO DE TOMADA CABO 2M",
+  "quantidade_caixa": 60,
+  "preco_regular": null,
+  "preco_oferta": null,
+  "esgotado": true,
+  "confianca": 1.0,
+  "preco_base": null
+ }
+]

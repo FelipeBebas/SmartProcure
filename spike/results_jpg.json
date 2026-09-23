@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "pdf": "LEHMOX 2026.04-4.jpg",
+    "modelo": "gpt-4o-mini",
+    "paginas": 1,
+    "n_itens": 0,
+    "tokens_in": 0,
+    "tokens_out": 0,
+    "custo_run_usd": 0.0,
+    "custo_por_pagina_usd": 0.0,
+    "segundos": 10.9
+  },
+  "por_pagina": [
+    {
+      "pagina": 1,
+      "metodo": "imagem",
+      "erro": "Connection error."
+    }
+  ],
+  "itens": []
+}

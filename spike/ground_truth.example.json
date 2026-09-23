@@ -1,0 +1,21 @@
+{
+  "_comment": "Gabarito = 100% dos produtos do catálogo, rotulados à mão (ou revisados). É a régua do eval. preco_oferta é o preço válido/mais baixo; null quando não há.",
+  "itens": [
+    {
+      "modelo_codigo": "LEF-366C",
+      "descricao": "Fone de ouvido intra-auricular com microfone",
+      "quantidade_caixa": 10,
+      "preco_regular": 19.90,
+      "preco_oferta": 14.90,
+      "esgotado": false
+    },
+    {
+      "modelo_codigo": "LEF-401",
+      "descricao": "Caixa de som bluetooth portátil",
+      "quantidade_caixa": 6,
+      "preco_regular": 89.90,
+      "preco_oferta": null,
+      "esgotado": true
+    }
+  ]
+}

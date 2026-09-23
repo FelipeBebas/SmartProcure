@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pckl
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual Environments & Secrets
+.env
+.env.*
+.venv/
+venv/
+ENV/
+
+# Package managers & caches
+.pytest_cache/
+.coverage
+htmlcov/
+.uv/
+spike/uv/
+spike/uv
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# LangGraph / LangSmith local traces & temp
+.langgraph/
+.langgraph_api/
+**/.langgraph_api/
+*.log

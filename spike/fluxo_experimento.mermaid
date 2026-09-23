@@ -1,0 +1,34 @@
+flowchart TD
+    subgraph CUSTO["GATE DE CUSTO — concluido (reaproveitado, nao descartado)"]
+        E01["E01 — spike_extract.py p9.pdf<br/>Pergunta: pagina de texto e barata?<br/>Resultado: US$0,00065/pagina"]
+        E23["E02/E03 — spike_extract.py *.jpg<br/>Pergunta: quanto custa o caminho imagem?<br/>Resultado: US$0,0061/pagina (~9x)"]
+        E04["E04a — spike_extract.py completo.pdf --dry-run<br/>Pergunta: custo do catalogo inteiro?<br/>Resultado: ~US$0,024/run (0 token)"]
+        DEC1{"< 1 centavo/run?"}
+        E01 --> E04
+        E23 --> E04
+        E04 --> DEC1
+        DEC1 -->|"estoura, mas 2,4c e trivial"| RELAX["Decisao: relaxar a meta<br/>CUSTO RESOLVIDO"]
+    end
+
+    subgraph INSP["INSPECAO — pdfplumber ad hoc (0 token)"]
+        I1["Pergunta: catalogo e seccionado? da pra filtrar?<br/>Resultado: sim, secao por pagina<br/>ACHADO: texto bilingue/pobre -> risco de ACURACIA"]
+    end
+    RELAX --> INSP
+
+    subgraph ACC["GATE DE ACURACIA — agora (o risco real)"]
+        A0["ALINHAR: categorias_alvo do lojista de informatica"]
+        A1["Escolher paginas in-domain<br/>(p14 HUB/MOUSE, p15 TECLADO MOUSE)"]
+        A2["Montar ground truth<br/>(Claude rascunha -> voce confere)"]
+        A3["Rodar spike_extract.py --project ... + evaluate.py"]
+        A4["LangSmith: Dataset + Annotation Queue + Evaluator"]
+        DEC2{"recall ~100% e erro silencioso = 0?"}
+        A0 --> A1 --> A2 --> A3 --> A4 --> DEC2
+        DEC2 -->|GO| BUILD["Fase 4 — vertical slice"]
+        DEC2 -->|"NO-GO"| A0
+    end
+    INSP --> ACC
+
+    classDef done fill:#e6f0ff,stroke:#3b6fb0,color:#0b2545;
+    classDef now fill:#fff0e6,stroke:#c9772e,color:#5a2c06;
+    class E01,E23,E04,DEC1,RELAX,I1 done;
+    class A0,A1,A2,A3,A4,DEC2 now;

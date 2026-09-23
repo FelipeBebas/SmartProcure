@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "pdf": "LEHMOX 2026.04-p9.pdf",
+    "modelo": "gpt-4o-mini",
+    "paginas": 1,
+    "n_itens": 16,
+    "tokens_in": 828,
+    "tokens_out": 882,
+    "custo_run_usd": 0.000653,
+    "custo_por_pagina_usd": 0.000653,
+    "segundos": 7.9
+  },
+  "por_pagina": [
+    {
+      "pagina": 1,
+      "metodo": "texto",
+      "n_itens": 16
+    }
+  ],
+  "itens": [
+    {
+      "modelo_codigo": "ST-963",
+      "descricao": "CONTROLE REMOTO UNIVERSAL",
+      "quantidade_caixa": 200,
+      "preco_regular": 5.8,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "ST-967",
+      "descricao": "CONTROLE REMOTO UNIVERSAL LCD LG SAMSUNG",
+      "quantidade_caixa": 200,
+      "preco_regular": 4.8,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "ST-968",
+      "descricao": "CONTROLE REMOTO UNIVERSAL SAMSUNG",
+      "quantidade_caixa": 200,
+      "preco_regular": 4.8,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "ST-969",
+      "descricao": "CONTROLE REMOTO UNIVERSAL PHILIS",
+      "quantidade_caixa": 200,
+      "preco_regular": 4.9,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "LEY-2308",
+      "descricao": "CONTROLE TV BOX",
+      "quantidade_caixa": 300,
+      "preco_regular": 3.2,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "ST-976",
+      "descricao": "CONTROLE AR CONDICIONADO UNIVERSAL",
+      "quantidade_caixa": 200,
+      "preco_regular": null,
+      "preco_oferta": null,
+      "esgotado": true,
+      "confianca": 0.7,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "ST-979",
+      "descricao": "CONTROLE AR CONDICIONADO UNIVERSAL",
+      "quantidade_caixa": 200,
+      "preco_regular": 8.0,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "LE-AG3",
+      "descricao": "PILHA BOTAO DE LITIO",
+      "quantidade_caixa": 1000,
+      "preco_regular": 0.99,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "NY-46",
+      "descricao": "CHARGER PILHA CARREGADOR BATERIA 欧规插",
+      "quantidade_caixa": 120,
+      "preco_regular": 14.8,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "LEY-2040",
+      "descricao": "CARREGADOR BATERIA USB款",
+      "quantidade_caixa": 200,
+      "preco_regular": 6.5,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "LEY-2036",
+      "descricao": "CARREGADOR BATERIA USB款",
+      "quantidade_caixa": 200,
+      "preco_regular": 9.5,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "LEY-2043",
+      "descricao": "CARREGADOR BATERIA 欧规插",
+      "quantidade_caixa": 200,
+      "preco_regular": 11.0,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "LEY-2032",
+      "descricao": "CARREGADOR BATERIA USB款",
+      "quantidade_caixa": 400,
+      "preco_regular": 2.3,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "LEY-2033",
+      "descricao": "CARREGADOR BATERIA USB款",
+      "quantidade_caixa": 400,
+      "preco_regular": 2.8,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "LEY-2034",
+      "descricao": "CARREGADOR BATERIA USB",
+      "quantidade_caixa": 300,
+      "preco_regular": 4.8,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    },
+    {
+      "modelo_codigo": "LEY-2181",
+      "descricao": "SUPORTE MULTIFUNCIONAL",
+      "quantidade_caixa": 20,
+      "preco_regular": 23.5,
+      "preco_oferta": null,
+      "esgotado": false,
+      "confianca": 0.9,
+      "pagina_origem": 1,
+      "metodo_extracao": "texto"
+    }
+  ]
+}
