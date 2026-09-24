@@ -1,4 +1,4 @@
-# 🛒 SmartProcure — Agentic Catalog Intelligence & Procurement Engine
+# 🛒 Agentic Catalog Intelligence & Procurement Engine
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-orange.svg)](https://langchain-ai.github.io/langgraph/)
